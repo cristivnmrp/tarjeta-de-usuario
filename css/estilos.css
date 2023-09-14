@@ -1,0 +1,32 @@
+.body{
+    font-family: 'Island Moments', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+.encabezado{
+    background-color: rgb(15, 171, 171);
+    height: 100px;
+}.usuario{
+    position: absolute;
+    width: 85px;
+    top: 55px;
+    left: 20px;
+    border-radius: 50%;
+    padding: 2px;
+    border-color: rgba(255, 255, 255, 0.762);
+    border-style: solid;
+    border-width: 2px;
+}
+.cuerpo{
+    padding: 30px;
+    border: 2px solid rgba(255, 255, 255, 0.762);
+}
+.iconos{
+    width: 14px;
+    margin-right: 10px;
+}
+.ubicacion{
+margin-bottom: 10px;
+}
+.edicion{
+    margin-top: 10px;
+}
